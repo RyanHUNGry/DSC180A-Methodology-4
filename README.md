@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Ryan Hung
-ryhung@ucsd.edu
+Ryan Hung and James Thai
